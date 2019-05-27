@@ -1,0 +1,8 @@
+msg=$1
+git config user.name “PaulaGVF”
+git config user.email paulagalindovf@live.com
+
+git add  .
+
+git commit -m $msg
+git push 
